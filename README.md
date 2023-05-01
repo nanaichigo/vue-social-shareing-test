@@ -1,2 +1,1 @@
-# vue-social-shareing-test
-vue-social-shareing-test
+# Vue3 + Vuetify + fontawesome + vue-social-sharing Demo
